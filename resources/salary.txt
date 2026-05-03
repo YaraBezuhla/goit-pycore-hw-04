@@ -1,0 +1,6 @@
+Alex test,3000
+Nikita test,2000
+Sit test,1000
+
+Sit test,2000
+Sita test,1500.50
